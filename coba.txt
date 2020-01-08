@@ -1,2 +1,3 @@
 - Belajar Git & Github
 - Implementasi github
+- Belajar angular js
